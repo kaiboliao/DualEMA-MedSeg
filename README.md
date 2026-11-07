@@ -28,10 +28,12 @@ You can download directly, and move them to the folder `Datasets/la/data`.
 
 To train a model,
 ```
+cd code
 python train_LA.py
 ```
 To test your trained model, and get the final performance,
 ```
+cd code
 python test_LA.py
 ```
 
